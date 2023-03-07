@@ -13,4 +13,5 @@ Thanks for your checking!
 2. Create repo online in the GitHub website
 3. Download GitHub Desktop and sign in
 4. Clone the repo locally 
-5. After changing anything, commit, then pull 
+5. After changing anything, commit, then push
+6. when you want the latest one, pull from the desktop version
