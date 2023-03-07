@@ -17,3 +17,6 @@ Thanks for your checking!
 6. when you want the latest one, pull from the desktop version
 
 this is a branch trial, see something different in branch
+
+You can create branch and pull it into the branch with the request
+Then the owner of the repo can decide whether or not 
