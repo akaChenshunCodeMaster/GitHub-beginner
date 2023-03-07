@@ -15,3 +15,5 @@ Thanks for your checking!
 4. Clone the repo locally 
 5. After changing anything, commit, then push
 6. when you want the latest one, pull from the desktop version
+
+this is a branch trial, see something different in branch
